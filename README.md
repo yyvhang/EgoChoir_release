@@ -42,7 +42,7 @@ The released dataset includes the following data: <br>
 (3) 3D objects with affordance annoatation. <br>
 (4) Head motion sequence. <br>
 
-Download the dataset from [Baidu Pan](https://pan.baidu.com/s/1amY7K_bl4qo-mhzZa2ZGbA?pwd=2zjt), key: 2zjt, around 110G. We will upload the date to other storage spaces for downloading without a Baidu account.
+Download the dataset from [Baidu Pan](https://pan.baidu.com/s/1amY7K_bl4qo-mhzZa2ZGbA?pwd=2zjt), key: 2zjt, around 110G. We will upload the data to other storage spaces for downloading without a Baidu account.
 
 ## ✏️ Usage <a name="4"></a>
 ### Environment <a name="41"></a> 
